@@ -1,11 +1,16 @@
 _repo: Regles-pour-les-officieres-du-monastere-de-l-Annonciade-fonde-a-Genes-l-annee-de-notre-Salut-__57790
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57790-h/images/cover.jpg
 creator:
   author:
     agent_name: Annunziata, Ordine della Santissima
     gutenberg_agent_id: '49602'
     url: http://www.gutenberg.org/2009/agents/49602
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57790#Regles-pour-les-officieres-du-monastere-de-l-Annonciade-fonde-a-Genes-l-annee-de-notre-Salut-_
 gutenberg_bookshelf:
 - FR Philosophie, Religion et Morale
 - FR Nouveautés
